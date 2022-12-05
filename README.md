@@ -1,6 +1,6 @@
 #Social-Time
 
-A social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
+A social network web application where users can share their thoughts, react to friends thoughts, and create a friend list. Uses Express.js for routing, MongoDB database, and Mongoose ODM.
 
 AS A social media startup
 I WANT an API for my social network that uses a NoSQL database
